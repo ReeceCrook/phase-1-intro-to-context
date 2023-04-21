@@ -103,7 +103,7 @@ function allWagesFor(employeeRecord){
    
     
 }
-
+/*
 let rRecord = createEmployeeRecord(["Rafiki", "", "Aide", 10])
         let sRecord = createEmployeeRecord(["Simba", "", "King", 100])
 
@@ -130,6 +130,7 @@ let rRecord = createEmployeeRecord(["Rafiki", "", "Aide", 10])
         })
 
         let employees = [sRecord, rRecord]
+        */
         
   
 function calculatePayroll(employeeRecord){
@@ -148,4 +149,4 @@ function calculatePayroll(employeeRecord){
     
 }
 
-calculatePayroll(employees)
+//calculatePayroll(employees)
